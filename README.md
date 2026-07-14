@@ -8,16 +8,17 @@ Recently completed an intensive 14-month advanced training program in **Cybersec
 ---
 
 ## 🚀 Technical Skills & Expertise
-* **Cybersecurity & SOC Operations:** Security Monitoring, Threat Detection, Incident Response, Vulnerability Assessment
-* **Advanced Tools:** SIEM (Security Information and Event Management), EDR (Endpoint Detection and Response)
-* **Systems & Network Security:** Operative IT-Security, Infrastructure Administration, Troubleshooting, Network Segmentation
+* **Cybersecurity & SOC Operations:** Security Monitoring, Threat Detection, Incident Response, Vulnerability Assessment, Packet Analysis
+* **Advanced Tools:** Wireshark, SIEM (Security Information and Event Management), EDR (Endpoint Detection and Response)
+* **Systems & Network Security:** Operative IT-Security, Infrastructure Administration, Network Traffic Analysis, Troubleshooting, Network Segmentation
 * **Emerging Tech:** Artificial Intelligence integration in Cybersecurity, Automation & Scripting
 
-## 📜 Professional Certifications
+## 📜 Professional Certifications & Training
 * **CompTIA Security+**
 * **CompTIA A+**
-* **Certified Ethical Hacker (CEH)** (Internal / Training Certification)
 * **ISC² Certified in Cybersecurity (CC)**
+* **Certified Ethical Hacker (CEH)** (Internal / Training Certification)
+* **Wireshark for Packet Capture: Analyze Web Traffic** (Coursera Guided Project)
 * **TELC B2** (German Professional Proficiency)
 
 ---
